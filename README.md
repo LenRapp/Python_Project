@@ -22,12 +22,13 @@ Idéal pour les débutants ou les curieux qui veulent explorer le monde Python �
 
 ## 📁 Projets inclus
 
-| Projet            | Description                       |
-|-------------------|-----------------------------------|
-| 🧮 Calculatrice    | Effectue des opérations de base   |
-| ⏰ Horloge         | (à venir) Affiche l’heure actuelle |
-| 🎲 Jeu de dés      | (à venir) Simule un lancer de dés |
-| 📊 Analyse simple  | (à venir) Statistiques sur des listes |
+| Projet            | Description                                    |
+|-------------------|------------------------------------------------|
+| 🧮 Calculatrice   | 🟢 Effectue des opérations de base               |
+| 🎯 Devine nombre    | 🟢 Devinez le nombre secret                    |
+| ⏰ Horloge         | (à venir) Affiche l’heure actuelle             |
+| 🎲 Jeu de dés     | (à venir) Simule un lancer de dés              |
+| 📊 Analyse simple | (à venir) Statistiques sur des listes          |
 | 🤖 Chatbot console | (à venir) Petit assistant en ligne de commande |
 
 ---
