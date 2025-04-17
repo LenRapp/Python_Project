@@ -27,7 +27,7 @@ Idéal pour les débutants ou les curieux qui veulent explorer le monde Python �
 | 🧮 Calculatrice    | 🟢 Effectue des opérations de base                              |
 | 🎯 Devine nombre   | 🟢 Devinez le nombre secret                                     |
 | ⏰/📅 Horloge/Date  | 🟢 Affiche l’heure, la date actuelle et le moment de la journée |
-| 🎲 Jeu de dés      | (à venir) Simule un lancer de dés                               |
+| 🎲 Jeu de dés      | 🟢 Simule un lancer de dés et affiche la somme                  |
 | 📊 Analyse simple  | (à venir) Statistiques sur des listes                           |
 | 🤖 Chatbot console | (à venir) Petit assistant en ligne de commande                  |
 
