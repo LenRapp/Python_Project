@@ -30,7 +30,7 @@ Idéal pour les débutants ou les curieux qui veulent explorer le monde Python �
 | 🎲 Jeu de dés      | 🟢 Simule un lancer de dés et affiche la somme                  |
 | 🔢 SommeChiffre     | 🟢 Affiche le calcul et la somme d'un chiffre                   |
 | 📊 Analyse simple  | (à venir) Statistiques sur des listes                           |
-| 🤖 Chatbot console | (à venir) Petit assistant en ligne de commande                  |
+| 🤖 Chatbot console | 🟢 Petit assistant en ligne de commande                  |
 
 ---
 ## ✨ Objectifs
