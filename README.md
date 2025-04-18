@@ -29,7 +29,7 @@ Idéal pour les débutants ou les curieux qui veulent explorer le monde Python �
 | ⏰/📅 Horloge/Date  | 🟢 Affiche l’heure, la date actuelle et le moment de la journée |
 | 🎲 Jeu de dés      | 🟢 Simule un lancer de dés et affiche la somme                  |
 | 🔢 SommeChiffre     | 🟢 Affiche le calcul et la somme d'un chiffre                   |
-| 📊 Analyse simple  | (à venir) Statistiques sur des listes                           |
+| 📊 Analyse simple  | 🟢 Statistiques sur des listes                           |
 | 🤖 Chatbot console | 🟢 Petit assistant en ligne de commande                  |
 
 ---
