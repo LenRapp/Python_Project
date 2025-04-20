@@ -33,14 +33,15 @@ Idéal pour les débutants ou les curieux qui veulent explorer le monde Python �
 ---
 ## 📁 Exercice inclus
 
-| Exerice           | Description                                                                |
-|-------------------|----------------------------------------------------------------------------|
-| ⚖️ Pair/Impair    | 🟢 Retoune si le nombre est pair ou impair                                 |
-| 🔢 Nombre premier | 🟢 Retoune si le nombre est premier ou non                                 |
-| 🎯 Devine nombre  | 🟢 Devinez le nombre secret                                                |
-| 🔢 SommeChiffre   | 🟢 Affiche le calcul et la somme d'un chiffre                              |
-| 🌡️ Température  | 🟢 Classer une température donnée en fonction de l'état physique de l'eau. |
-| 🌊 Piscine  | 🟢 Affiche en fonction de la taille le droit d'accès à la piscine          |
+| Exerice             | Description                                                                |
+|---------------------|----------------------------------------------------------------------------|
+| ⚖️ Pair/Impair      | 🟢 Retoune si le nombre est pair ou impair                                 |
+| 🔢 Nombre premier   | 🟢 Retoune si le nombre est premier ou non                                 |
+| 🎯 Devine nombre    | 🟢 Devinez le nombre secret                                                |
+| 🔢 SommeChiffre     | 🟢 Affiche le calcul et la somme d'un chiffre                              |
+| 🌡️ Température     | 🟢 Classer une température donnée en fonction de l'état physique de l'eau. |
+| 🌊 Piscine          | 🟢 Affiche en fonction de la taille le droit d'accès à la piscine          |
+| 🛡️ Tarif assurance | 🟢 Affiche le tarif selon l'âge et la sate de l'obtention du permis        |
 
 
 ---
@@ -55,4 +56,4 @@ Idéal pour les débutants ou les curieux qui veulent explorer le monde Python �
 ## 🚀 Lancer un projet
 Exemple : lancer la calculatrice
 ```bash
-    python calculatrice.py
+   python calculatrice.py
