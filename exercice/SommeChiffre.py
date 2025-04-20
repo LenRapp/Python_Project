@@ -7,5 +7,3 @@ for e in nbChaine:
     somme += int(e)
 calcule = " + ".join(liste_chiffre)
 print("La somme de ses chiffres est",calcule,"=",somme)
-
-

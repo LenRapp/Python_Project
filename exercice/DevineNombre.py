@@ -8,6 +8,7 @@ def jouer():
     nbAlea =random.randint(1,100)
     essaie =0
     print ("🤖 J'ai choisis un nombre entre 1 et 100")
+    print(nbAlea)
 
     while True:
         nbUser=int(input("Votre proposition : "))
