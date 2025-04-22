@@ -46,6 +46,10 @@ Idéal pour les débutants ou les curieux qui veulent explorer le monde Python �
 | 🔺 Triangle d'étoiles | 🟢 Retourne un triangle en fonction du nombre de lignes                    |
 | 🌡️ Convertisseur Celsius ↔ Fahrenheit | 🟢 Convertion d'une valeur Celsius en Fahrenheit ou l'inverse              |
 | ▭ Aire et Périmètre d’un Rectangle   | 🟢 Retourne l'aire et le périmetre d'un rectangle                          |
+| 🔁 Palindrome    | 🟢 Affiche si le mot est un palindome ou non                               |
+| 🪙 Pile ou Face    | 🟢 Deviner le résultat d’un tirage pile ou face.                                                             |
+
+
 
 
 
