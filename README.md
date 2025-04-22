@@ -44,6 +44,9 @@ Idéal pour les débutants ou les curieux qui veulent explorer le monde Python �
 | 🛡️ Tarif assurance | 🟢 Affiche le tarif selon l'âge et la date de l'obtention du permis        |
 | ✖️ Table de multiplication | 🟢 Retourne la table de multiplication                                     |
 | 🔺 Triangle d'étoiles | 🟢 Retourne un triangle en fonction du nombre de lignes                    |
+| 🌡️ Convertisseur Celsius ↔ Fahrenheit | 🟢 Convertion d'une valeur Celsius en Fahrenheit ou l'inverse              |
+| ▭ Aire et Périmètre d’un Rectangle   | 🟢 Retourne l'aire et le périmetre d'un rectangle                          |
+
 
 
 
