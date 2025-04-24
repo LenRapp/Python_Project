@@ -33,21 +33,24 @@ Idéal pour les débutants ou les curieux qui veulent explorer le monde Python �
 ---
 ## 📁 Exercice inclus
 
-| Exerice             | Description                                                                |
-|---------------------|----------------------------------------------------------------------------|
-| ⚖️ Pair/Impair      | 🟢 Retoune si le nombre est pair ou impair                                 |
-| 🔢 Nombre premier   | 🟢 Retoune si le nombre est premier ou non                                 |
-| 🎯 Devine nombre    | 🟢 Devinez le nombre secret                                                |
-| 🔢 SommeChiffre     | 🟢 Affiche le calcul et la somme d'un chiffre                              |
-| 🌡️ Température     | 🟢 Classer une température donnée en fonction de l'état physique de l'eau. |
-| 🌊 Piscine          | 🟢 Affiche en fonction de la taille le droit d'accès à la piscine          |
-| 🛡️ Tarif assurance | 🟢 Affiche le tarif selon l'âge et la date de l'obtention du permis        |
-| ✖️ Table de multiplication | 🟢 Retourne la table de multiplication                                     |
-| 🔺 Triangle d'étoiles | 🟢 Retourne un triangle en fonction du nombre de lignes                    |
-| 🌡️ Convertisseur Celsius ↔ Fahrenheit | 🟢 Convertion d'une valeur Celsius en Fahrenheit ou l'inverse              |
-| ▭ Aire et Périmètre d’un Rectangle   | 🟢 Retourne l'aire et le périmetre d'un rectangle                          |
-| 🔁 Palindrome    | 🟢 Affiche si le mot est un palindome ou non                               |
-| 🪙 Pile ou Face    | 🟢 Deviner le résultat d’un tirage pile ou face.                                                             |
+| Exerice         | Description                                                               |
+|-----------------|---------------------------------------------------------------------------|
+| ⚖️ Pair/Impair  | 🟢 Retoune si le nombre est pair ou impair                                |
+| 🔢 Nombre premier | 🟢 Retoune si le nombre est premier ou non                                |
+| 🎯 Devine nombre | 🟢 Devinez le nombre secret                                               |
+| 🔢 SommeChiffre | 🟢 Affiche le calcul et la somme d'un chiffre                             |
+| 🌡️ Température | 🟢 Classer une température donnée en fonction de l'état physique de l'eau. |
+| 🌊 Piscine      | 🟢 Affiche en fonction de la taille le droit d'accès à la piscine         |
+| 🛡️ Tarif assurance | 🟢 Affiche le tarif selon l'âge et la date de l'obtention du permis       |
+| ✖️ Table de multiplication | 🟢 Retourne la table de multiplication                                    |
+| 🔺 Triangle d'étoiles | 🟢 Retourne un triangle en fonction du nombre de lignes                   |
+| 🌡️ Convertisseur Celsius ↔ Fahrenheit | 🟢 Convertion d'une valeur Celsius en Fahrenheit ou l'inverse             |
+| ▭ Aire et Périmètre d’un Rectangle | 🟢 Retourne l'aire et le périmetre d'un rectangle                         |
+| 🔁 Palindrome   | 🟢 Affiche si le mot est un palindome ou non                              |
+| 🪙 Pile ou Face | 🟢 Deviner le résultat d’un tirage pile ou face.                          |
+| 🔁 Nombres communs| 🟢 Retoune les nombres communs entre deux listes                          |
+| ⚖️ Pair/Impair  | 🟢 Retoune si le nombre est pair ou impair                                |
+
 
 
 
