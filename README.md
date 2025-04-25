@@ -50,12 +50,8 @@ Idéal pour les débutants ou les curieux qui veulent explorer le monde Python �
 | 🪙 Pile ou Face                        | 🟢 Deviner le résultat d’un tirage pile ou face.                           |
 | 🔁 Nombres communs                     | 🟢 Retoune les nombres communs entre deux listes                           |
 | 🔤 Voyelle                             | 🟢 Retoune le nombre de voyelles dans un mot                               |
-
-
-
-
-
-
+| 🧑‍🤝‍🧑 Doublons                      | 🟢 Retoune les doublons d'une liste                                        |
+| 🔄 Inverse liste                       | 🟢 Retoune l'inverse d'une liste                                           |
 
 ---
 ## ✨ Objectifs
