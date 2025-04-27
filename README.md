@@ -66,3 +66,8 @@ Idéal pour les débutants ou les curieux qui veulent explorer le monde Python �
 Exemple : lancer la calculatrice
 ```bash
    python calculatrice.py
+```
+## 📜 Licence
+Distribué sous licence MIT. Voir LICENSE pour plus d'informations.
+
+# 🎉 Bon code !
