@@ -68,6 +68,6 @@ Exemple : lancer la calculatrice
    python calculatrice.py
 ```
 ## 📜 Licence
-Distribué sous licence MIT. Voir LICENSE pour plus d'informations.
+Distribué sous licence MIT. Voir [License MIT](https://opensource.org/licenses/MIT) pour plus d'informations.
 
 # 🎉 Bon code !
