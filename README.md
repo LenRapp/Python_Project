@@ -52,6 +52,9 @@ Idéal pour les débutants ou les curieux qui veulent explorer le monde Python �
 | 🔤 Voyelle                             | 🟢 Retoune le nombre de voyelles dans un mot                               |
 | 🧑‍🤝‍🧑 Doublons                      | 🟢 Retoune les doublons d'une liste                                        |
 | 🔄 Inverse liste                       | 🟢 Retoune l'inverse d'une liste                                           |
+| 🔢 🔁 Nombre premier et paindrome      | 🟢 Retoune un nombre premier et si il est palindrome                       |
+| ➗ Calcul formel                        | 🟢 Simplifier une fraction en divisant par le pgcd                                          |
+
 
 ---
 ## ✨ Objectifs
