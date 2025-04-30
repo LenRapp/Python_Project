@@ -54,7 +54,8 @@ Idéal pour les débutants ou les curieux qui veulent explorer le monde Python �
 | 🔄 Inverse liste                       | 🟢 Retoune l'inverse d'une liste                                           |
 | 🔢 🔁 Nombre premier et paindrome      | 🟢 Retoune un nombre premier et si il est palindrome                       |
 | ➗ Calcul formel                        | 🟢 Simplifier une fraction en divisant par le pgcd                         |
-| 🔢 Min Milieu Max                        | 🟢 Retourne le plus petit, plus grand, et celui du mileu entre 3 entier    |
+| 🔢 Min Milieu Max                       | 🟢 Retourne le plus petit, plus grand, et celui du mileu entre 3 entier    |
+| 📐 Carré et diviseur d'une suite        | 🟢 Retourne le carre et les diviseurs d'un entier                          |
 
 
 
