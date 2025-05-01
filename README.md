@@ -56,6 +56,7 @@ Idéal pour les débutants ou les curieux qui veulent explorer le monde Python �
 | ➗ Calcul formel                        | 🟢 Simplifier une fraction en divisant par le pgcd                         |
 | 🔢 Min Milieu Max                       | 🟢 Retourne le plus petit, plus grand, et celui du mileu entre 3 entier    |
 | 📐 Carré et diviseur d'une suite        | 🟢 Retourne le carre et les diviseurs d'un entier                          |
+| 🥇 Nombre Premier        | 🟢 Retourne le nombre est premier avec la fonction transformer et calcul   |
 
 
 
